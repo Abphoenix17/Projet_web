@@ -7,3 +7,9 @@
   
   Spécifications : le mettre en ligne sur serveur, utilisation filezilla (cf.pdf du projet)
                 IMPORTANT : Utlisation de javascript pour lire et utiliser les musiques sur le site
+
+
+_______________________________________________________________________________________________________
+
+Pour la page d'acceuil => menu en footer et image en fond 
+Les autres pages du site : Les compositeurs, Les styles, contact, les films et la musique epic(mad max, LOR, pirates des caraïbes,...), les origines ?
