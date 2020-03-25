@@ -13,6 +13,7 @@ ________________________________________________________________________________
 
 Pour la page d'acceuil => menu en footer et image en fond 
 Les autres pages du site : Les compositeurs, Les styles, contact, les films et la musique epic(mad max, LOR, pirates des caraïbes,...), les origines ?
+Ajout des nouvelles feuilles html
 
 
 
