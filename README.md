@@ -15,7 +15,10 @@ Pour la page d'acceuil => menu en footer et image en fond
 Les autres pages du site : Les compositeurs, Les styles, contact, radio (liens vers une vidéo qui passe de la musique en continu), les origines ?
 Ajout des nouvelles feuilles html
 
+_______________________________________________________________________________________________________
 
+Pour la page radio la vidéo ne fonctionne pas pour le moment parce que le site n'est pas encore en ligne, je ne vais pas télécharger 
+la vidéo pour éviter que mon projet soit trop lourd. Si vous avez une meilleure idée allez-y faites.
 
 clone: 
 ```bash
