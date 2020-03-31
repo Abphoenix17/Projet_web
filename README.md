@@ -12,7 +12,7 @@
 _______________________________________________________________________________________________________
 
 Pour la page d'acceuil => menu en footer et image en fond 
-Les autres pages du site : Les compositeurs, Les styles, contact, les films et la musique epic(mad max, LOR, pirates des caraïbes,...), les origines ?
+Les autres pages du site : Les compositeurs, Les styles, contact, radio (liens vers une vidéo qui passe de la musique en continu), les origines ?
 Ajout des nouvelles feuilles html
 
 
