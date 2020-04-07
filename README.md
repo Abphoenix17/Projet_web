@@ -20,6 +20,8 @@ ________________________________________________________________________________
 Pour la page radio la vidéo ne fonctionne pas pour le moment parce que le site n'est pas encore en ligne, je ne vais pas télécharger 
 la vidéo pour éviter que mon projet soit trop lourd. Si vous avez une meilleure idée allez-y faites.
 
+Nouveau ajouts : les icons et le main.css
+
 clone: 
 ```bash
 git clone https://github.com/Abphoenix17/Projet_web.git
