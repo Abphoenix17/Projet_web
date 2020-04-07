@@ -3,5 +3,23 @@ html {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    background-size: cover;
     font-family: 'Bangers', cursive;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+}
+
+nav ul,
+li a {
+    display: flex;
+    flex-direction: row;
 }
