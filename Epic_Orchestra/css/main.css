@@ -5,12 +5,18 @@ html {
     background-position: center;
     background-size: cover;
     font-family: 'Bangers', cursive;
+    font-size: 20px;
+    color: white;
 }
 
 body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+}
+
+.vide {
+    height: 90vh;
 }
 
 footer {
@@ -22,4 +28,14 @@ nav ul,
 li a {
     display: flex;
     flex-direction: row;
+    align-items: baseline;
+    justify-content: space-around;
+    text-decoration: none;
+    color: white;
+
+}
+
+.icons {
+    float: right;
+    color: white;
 }
