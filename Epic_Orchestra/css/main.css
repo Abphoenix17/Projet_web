@@ -31,11 +31,14 @@ li a {
     align-items: baseline;
     justify-content: space-around;
     text-decoration: none;
+    margin-left: 1vh;
     color: white;
 
 }
 
 .icons {
-    float: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     color: white;
 }
