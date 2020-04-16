@@ -26,16 +26,16 @@ for (var i = 0; i < players.length; i++) {
     // ------------
     var playpause = document.createElement("img");
     controls.playpause = playpause;
-    playpause.setAttribute("src", "img/play.svg");
+    playpause.setAttribute("src", "images/play.svg");
     playpause.player = player;
     playpause.playing = false;
     playpause.onclick = function () {
         if (!this.playing) {
             this.player.play();
-            playpause.setAttribute("src", "img/pause.svg");
+            playpause.setAttribute("src", "images/pause.svg");
         } else {
             this.player.pause();
-            playpause.setAttribute("src", "img/play.svg");
+            playpause.setAttribute("src", "images/play.svg");
         }
         this.playing = !this.playing;
     };
@@ -44,7 +44,7 @@ for (var i = 0; i < players.length; i++) {
     //  Volume
     // --------
     var vol = document.createElement("img");
-    vol.setAttribute("src", "img/volume.svg");
+    vol.setAttribute("src", "images/volume.svg");
     controls.appendChild(vol);
     // ----------
     //  Scrubber
