@@ -1,7 +1,14 @@
 article {
     display: flex;
     flex-direction: column;
+    text-align: center;
+    justify-content: center;
     width: 100vh;
     margin-top: 5vh;
     margin-bottom: 2vh;
+    color: black;
+}
+
+h2{
+    color: white;
 }
